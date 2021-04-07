@@ -10,4 +10,9 @@
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### 
-### Day 1: 
+### Day 1: April 7 2020
+
+**Today's Progress:** Code Challenges
+
+**Thoughts:** These were fun! I liked my first solution a lot. The second one was a bit more challenging and I had to do some research. Some takeaways for me are that I am interested in learning more about what a radix is and I'd like to try using while loops more in challenges.
+
