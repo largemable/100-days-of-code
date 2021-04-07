@@ -8,8 +8,6 @@
 
 **Link to work:** [TUTORIAL] https://www.youtube.com/watch?v=dhpjjAxKbHE
 
-### Day 0: February 30, 2016 (Example 2)
-##### 
 ### Day 1: April 7 2020
 
 **Today's Progress:** Code Challenges
