@@ -6,7 +6,7 @@
 
 **Thoughts:** I'm very excited to learn this tech! Seems so useful and fun.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [TUTORIAL] https://www.youtube.com/watch?v=dhpjjAxKbHE
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### 
