@@ -14,3 +14,7 @@
 
 **Thoughts:** These were fun! I liked my first solution a lot. The second one was a bit more challenging and I had to do some research. Some takeaways for me are that I am interested in learning more about what a radix is and I'd like to try using while loops more in challenges.
 
+### Day 2: April 8 2020
+**Today's Progress:** Python Code Challenges
+
+**Thoughts:**
